@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../EventVision_for_SpaceNav"
+		},
+		{
+			"path": "../senpi_ebi_PeterCdev"
+		},
+		{
+			"path": "../v2e_PeterCdev"
+		},
+		{
+			"path": "../../ML-repos/rampvo_PeterCdev"
+		},
+		{
+			"path": "../../SLAM-repos/DPVO_PeterCdev"
+		}
+	],
+	"settings": {}
+}
